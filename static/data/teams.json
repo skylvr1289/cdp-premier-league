@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "title": "Mysuru-T1",
+        "member1": "Anil",
+        "member2": "Nagesh",
+        "gameType": "snooker"
+
+    },
+    {
+        "id": 2,
+        "title": "Mysuru-T2",
+        "member1": "Aniket",
+        "member2": "Satheesh",
+        "gameType": "snooker"
+    },
+    {
+        "id": 3,
+        "title": "Mysuru-T3",
+        "member1": "Gayathri",
+        "member2": "Uma",
+        "gameType": "snooker"
+    },
+    {
+        "id": 4,
+        "title": "KGF-T1",
+        "member1": "Abhishek",
+        "member2": "Raghav",
+        "gameType": "foosball"
+    },
+    {
+        "id":5,
+        "title": "KGF-T2",
+        "member1": "Rajiv",
+        "member2": "Lokesh",
+        "gameType": "foosball"
+    },
+    {
+        "id": 6,
+        "title": "KGF-T3",
+        "member1": "Satya",
+        "member2": "Anuj",
+        "gameType": "foosball"
+    },
+    {
+        "id": 7,
+        "title": "Hampi-T1",
+        "member1": "Anuj",
+        "member2": "Padam",
+        "gameType": "foosball"
+    },
+    {
+        "id":8,
+        "title": "Hampi-T2",
+        "member1": "Rajat",
+        "member2": "Ashish",
+        "gameType": "snooker"
+    },
+    {
+        "id": 9,
+        "title": "Coorg-T1",
+        "member1": "Anoop",
+        "member2": "Chandan",
+        "gameType": "foosball"
+    },
+    {
+        "id":10,
+        "title": "Coorg-T2",
+        "member1": "Mathavan",
+        "member2": "Nidhish",
+        "gameType": "snooker"
+    } 
+]

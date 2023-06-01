@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Mysuru-T1",
+        "score": 10,
+        "won": 0,
+        "lost":0,
+        "gameType": "snooker"
+    },
+    {
+        "id": 2,
+        "title": "Mysuru-T2",
+        "score": 9,
+        "won": 0,
+        "lost":0,
+        "gameType": "snooker"
+    },
+    {
+        "id": 3,
+        "title": "Mysuru-T3",
+        "score": 0,
+        "won": 0,
+        "lost":0,
+        "gameType": "snooker"
+    },
+    {
+        "id": 4,
+        "title": "KGF-T1",
+        "score": 0,
+        "won": 0,
+        "lost":0,
+        "gameType": "foosball"
+    },
+    {
+        "id":5,
+        "title": "KGF-T2",
+        "score": 0,
+        "won": 0,
+        "lost":0,
+        "gameType": "foosball"
+    },
+    {
+        "id": 6,
+        "title": "KGF-T3",
+        "score": 0,
+        "won": 0,
+        "lost":0,
+        "gameType": "foosball"
+    },
+    {
+        "id": 7,
+        "title": "Hampi-T1",
+        "score": 7,
+        "won": 0,
+        "lost":0,
+        "gameType": "foosball"
+    },
+    {
+        "id":8,
+        "title": "Hampi-T2",
+        "score": 0,
+        "won": 0,
+        "lost":0,
+        "gameType": "snooker"
+    },
+    {
+        "id": 9,
+        "title": "Coorg-T1",
+        "score": 0,
+        "won": 0,
+        "lost":0,
+        "gameType": "foosball"
+    },
+    {
+        "id":10,
+        "title": "Coorg-T2",
+        "score": 16,
+        "won": 0,
+        "lost":0,
+        "gameType": "snooker"
+    } 
+]
