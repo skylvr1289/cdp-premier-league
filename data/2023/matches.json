@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "Match 1 of 23",
+        "team1": "Mysuru-T1",
+        "team2": "Hampi-T1",
+        "gameType": "snooker",
+        "schedule": "June 3, 5:30 PM",
+        "result": "Match scheduled",
+        "round": "quialifier"
+
+    },
+    {
+        "id": 2,
+        "title": "Match 2 of 23",
+        "team1": "Mysuru-T1",
+        "team2": "Hampi-T1",
+        "gameType": "snooker",
+        "schedule": "June 3, 5:30 PM",
+        "result": "Match scheduled",
+        "round": "quialifier"
+    },
+    {
+        "id": 3,
+        "title": "Match 3 of 23",
+        "team1": "Mysuru-T1",
+        "team2": "Hampi-T1",
+        "gameType": "snooker",
+        "schedule": "June 3, 5:30 PM",
+        "result": "Match scheduled",
+        "round": "quialifier"
+    }
+]
